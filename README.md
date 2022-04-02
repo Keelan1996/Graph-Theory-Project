@@ -1,9 +1,9 @@
 # Graph Theory Assessment
 
 ## Introduction
-Hello my name is Keelan Duddy. This github page contains my end of the year assessment for Graph Theory, Summer 2021/2022. The purpose of this notebook is to demonstrate my understanding, learning outcomes I have earned in the module Graph Theory in 3rd year software development at GMIT and it's role in computer scinece and mathematics.
+Hello my name is Keelan Duddy. This github page contains my end of the year assessment for Graph Theory, Summer 2021/2022. The purpose of this notebook is to demonstrate my understanding, and learning outcomes I have earned in the module Graph Theory in 3rd year software development at GMIT. 
 
-## Concept
+## Module
 
 #### Graph Theory
 
@@ -24,7 +24,7 @@ The second reason why is the easy to learn syntax compared to other languages, t
 
 So Python will be a great way to demonstrate heap-sort algorithm and Graph Isomorphism Problem. How will we be doing this is through notebooks from a Python package known as Jupyter. Jupyter notebooks is a really helpful tool to visualise data in a detailed and organised manner.
 
-## Prerequisties
+## Installation
 
 If you wish to look at the contents of the notebook closer, you will need to install jupyter notebook. 
 
