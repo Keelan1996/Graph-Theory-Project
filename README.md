@@ -41,3 +41,7 @@ Once you followed the guides instructions, clone this repository and open up you
 After this the jupter notebook will pop up in your browser of choice.
 
 Jupyter Notebook is an open-source web appliction that allows you to create and share documents that contain code, visualisations, equations and detailed notes. Many data scientist use jupyter notebook for statistc modelling, machine learning, data visualisations and much more.
+
+## Issues
+If you have any issues or questions please contact me at my email: Keelanduddy@gmail.com
+I'll get back to you as soon as I can.
