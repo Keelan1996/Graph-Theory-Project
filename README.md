@@ -45,3 +45,33 @@ Jupyter Notebook is an open-source web appliction that allows you to create and 
 ## Issues
 If you have any issues or questions please contact me at my email: Keelanduddy@gmail.com
 I'll get back to you as soon as I can.
+
+# References
+Dr Ian McLoughlin. [15]
+
+https://en.wikipedia.org/wiki/Algorithm [1]
+https://en.wikipedia.org/wiki/Data_structure [2]
+https://en.wikipedia.org/wiki/Heapsort [3]
+
+Data Structures and Algorithms in Java by Michael T. Goodrich https://books.google.ie/books?id=UqmYAgAAQBAJ&printsec=frontcover&dq=data+structures+and+algorithms&hl=en&sa=X&ved=2ahUKEwjT0pD3yM72AhVGasAKHYUfAMUQ6AF6BAgGEAI#v=onepage&q=data%20structures%20and%20algorithms&f=false [4]
+
+What is a binary heap https://medium.com/@mopurisreenath/what-is-binary-heap-25cd0f8bed24 [5]
+
+complete binary tree https://www.techiedelight.com/check-given-binary-tree-complete-binary-tree-not/ [6]
+
+https://www.baeldung.com/cs/heap-vs-binary-search-tree [7]
+
+binary tree data structure and algorithms https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm [8]
+
+max and min heap https://www.geeksforgeeks.org/difference-between-min-heap-and-max-heap/ [9]
+
+binary heap geeks https://www.geeksforgeeks.org/binary-heap/ [10]
+
+big o notation https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/ [11]
+
+big o complexity https://guides.codepath.com/compsci/Big-O-Complexity-Analysis#:~:text=Big%20O%20notation%20is%20used,the%20size%20of%20the%20dataset. [12]
+
+heapsort o(n log n) https://www.quora.com/How-does-Heapsort-take-O-nlogn-time [13]
+
+what is graph theory and why we should care https://towardsdatascience.com/what-is-graph-theory-and-why-should-you-care-28d6a715a5c2#:~:text=Graph%20Theory%20is%20ultimately%20the,moving%20parts%20of%20dynamic%20systems. [14]
+
