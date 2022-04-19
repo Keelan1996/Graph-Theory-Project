@@ -17,6 +17,7 @@ For this module we were asked to:
 
 - Discuss and conceptualise the Graph Isomorphism Problem.
 
+### how the contents will be demonstrated
 
 We will be doing this through the programming language called Python. Python is one the top programming languages right now. It's design philosophy emphasizes code readability with the use of significant indentation. A lot of data scientists learn python due to it's powerful capabilities in data science with its many great libraries that deal with data science application. 
 
@@ -26,6 +27,10 @@ So Python will be a great way to demonstrate heap-sort algorithm and Graph Isomo
 
 ## Installation
 
+Download Anaconda which is a distribution of the Python programming languages for scientific computing, that aims to simplify package management and deployment. The distribution includes data-science packages suitable for Windows, Linux, and macOS.
+
+[To install Anaconda to get Python follow this installation document](https://docs.anaconda.com/anaconda/install/index.html)
+
 If you wish to look at the contents of the notebook closer, you will need to install jupyter notebook. 
 
 #### Jupyter Notebook
@@ -34,6 +39,7 @@ Juyter installation requires Python 3.3 or greater.
 
 [Click here to install Jupyter via Python Installation](https://test-jupyter.readthedocs.io/en/rtd-theme/install.html#:~:text=Prerequisite%3A%20Jupyter%20installation%20requires%20Python,package%20manager%2C%20or%20using%20Anaconda.)
 
+## Running
 Once you followed the guides instructions, clone this repository and open up your terminal at the designated location and type in and run this command:
 
 ###### jupyter notebook
@@ -42,12 +48,17 @@ After this the jupter notebook will pop up in your browser of choice.
 
 Jupyter Notebook is an open-source web appliction that allows you to create and share documents that contain code, visualisations, equations and detailed notes. Many data scientist use jupyter notebook for statistc modelling, machine learning, data visualisations and much more.
 
+## TroubleShooting
+If you are having any trouble with Jupyter Notebook. [Jupter Notebooks troubleshooting page may help](https://jupyter-notebook.readthedocs.io/en/stable/troubleshooting.html)
+
 ## Issues
-If you have any issues or questions please contact me at my email: Keelanduddy@gmail.com
+If you are still having any issues or even want to ask questions please contact me at my email: Keelanduddy@gmail.com
 I'll get back to you as soon as I can.
 
 # References
 Dr Ian McLoughlin. [15]
+
+### Heap sort references
 
 https://en.wikipedia.org/wiki/Algorithm [1]
 https://en.wikipedia.org/wiki/Data_structure [2]
