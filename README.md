@@ -86,3 +86,6 @@ heapsort o(n log n) https://www.quora.com/How-does-Heapsort-take-O-nlogn-time [1
 
 what is graph theory and why we should care https://towardsdatascience.com/what-is-graph-theory-and-why-should-you-care-28d6a715a5c2#:~:text=Graph%20Theory%20is%20ultimately%20the,moving%20parts%20of%20dynamic%20systems. [14]
 
+heapsort complexity https://www.happycoders.eu/algorithms/heapsort/ [16]
+
+Sciencing https://sciencing.com/the-advantages-of-heap-sort-12749895.html [17]
