@@ -11,12 +11,29 @@ Graph theory is the study of graphs which is a mathematical structure use to mod
 
 ## Contents 
 
-For this module we were asked to:
+For this module we were asked to discuss the following two:
 
-- Explain in depth how Heap sort algorithm works and provide implementation.
+#### Heap sort
+In computer science, heapsort is a comparison-based sorting algorithm.
+ 
+ Within this notebook we discuss:
+ 
+ -Discuss what is the Heap Sort algorithm.
+ -Implementing Python function for Heap Sort.
+ -Explain the computational complexity of Heap Sort.
+ -Explain how graph theory is used in Heap Sort.
+ 
+#### Graph Isomorphism problem
+The graph isomorphism problem is the computational problem of determining whether two finite graphs are isomorphic.
+ 
+  Within this notebook we discuss:
 
-- Discuss and conceptualise the Graph Isomorphism Problem.
+ -Discussing what is the Graph Iomorphism Problem.
+ -Explain how graphs can be represented in data structures.
+ -Create a Python function implementing an algorithm to determine if two graphs are isomorphic or not.
+ -Discussion of the computational complexity of the Graph Isomorphism Problem.
 
+ 
 ### how the contents will be demonstrated
 
 We will be doing this through the programming language called Python. Python is one the top programming languages right now. It's design philosophy emphasizes code readability with the use of significant indentation. A lot of data scientists learn python due to it's powerful capabilities in data science with its many great libraries that deal with data science application. 
@@ -54,6 +71,10 @@ If you are having any trouble with Jupyter Notebook. [Jupter Notebooks troublesh
 ## Issues
 If you are still having any issues or even want to ask questions please contact me at my email: Keelanduddy@gmail.com
 I'll get back to you as soon as I can.
+
+# Author
+
+Keelan Duddy
 
 # References
 Dr Ian McLoughlin. [15]
