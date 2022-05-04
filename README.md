@@ -1,7 +1,7 @@
 # Graph Theory Assessment
 
 ## Introduction
-Hello my name is Keelan Duddy. This github page contains my end of the year assessment for Graph Theory, Summer 2021/2022. The purpose of this notebook is to demonstrate my understanding, and learning outcomes I have earned in the module Graph Theory in 3rd year software development at GMIT. 
+Hello my name is Keelan Duddy. This github page contains my end of the year assessment for Graph Theory, Summer 2021/2022. The purpose of this notebook is to demonstrate my understanding, and learning outcomes I have earned in the module Graph Theory in 3rd year software development at ATU. 
 
 ## Module
 
@@ -81,7 +81,7 @@ Type in and run this command:
 Jupyter notebook
 ````
 
-After this the jupter notebook will pop up in your browser of choice.
+After this the jupyter notebook will pop up in your browser of choice.
 
 Jupyter Notebook is an open-source web appliction that allows you to create and share documents that contain code, visualisations, equations and detailed notes. Many data scientist use jupyter notebook for statistc modelling, machine learning, data visualisations and much more.
 
@@ -114,7 +114,6 @@ Keelan Duddy
 ## Credits
 Dr Ian McLoughlin. 
 Toni Canada.
-Kanav Malhotra.
 
 
 # References
@@ -153,3 +152,11 @@ Dr Ian McLoughlin. [15]
 heapsort complexity https://www.happycoders.eu/algorithms/heapsort/ [16]
 
 Sciencing https://sciencing.com/the-advantages-of-heap-sort-12749895.html [17]
+
+opengenus Time & Space Complexity of Heap Sort https://iq.opengenus.org/time-complexity-of-heap-sort/ [18]
+
+run time analysis of heapsort https://medium.com/@angeloacebedo/run-time-analysis-heap-sort-8b81d6403508 [19]
+
+merge sort https://www.geeksforgeeks.org/merge-sort/ [20]
+
+quicksort https://www.geeksforgeeks.org/python-program-for-quicksort/ [21]
