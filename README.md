@@ -33,8 +33,13 @@ The graph isomorphism problem is the computational problem of determining whethe
  ~Create a Python function implementing an algorithm to determine if two graphs are isomorphic or not.
  ~Discussion of the computational complexity of the Graph Isomorphism Problem.
 
- 
-### How the contents will be demonstrated
+
+## Technologies
+
+<b>Platform:</b> Jupyter Notebook
+<b> Coding language </b> Python
+
+### How the Technologies will be demonstrating the contents and why
 
 We will be doing this through the programming language called Python. Python is one the top programming languages right now. It's design philosophy emphasizes code readability with the use of significant indentation. A lot of data scientists learn python due to it's powerful capabilities in data science with its many great libraries that deal with data science application. 
 
@@ -57,7 +62,16 @@ Juyter installation requires Python 3.3 or greater.
 [Click here to install Jupyter via Python Installation](https://test-jupyter.readthedocs.io/en/rtd-theme/install.html#:~:text=Prerequisite%3A%20Jupyter%20installation%20requires%20Python,package%20manager%2C%20or%20using%20Anaconda.)
 
 ## Running
-Once you followed the guides instructions, clone this repository and open up your terminal at the designated location and type in and run this command:
+
+Once you followed the guides instructions, clone this repository:
+
+###### https://github.com/Keelan1996/heapsort
+
+Open up your terminal at the designated location:
+
+###### cd heapsort
+
+Type in and run this command:
 
 ###### jupyter notebook
 
@@ -68,13 +82,29 @@ Jupyter Notebook is an open-source web appliction that allows you to create and 
 ## TroubleShooting
 If you are having any trouble with Jupyter Notebook. [Jupter Notebooks troubleshooting page may help](https://jupyter-notebook.readthedocs.io/en/stable/troubleshooting.html)
 
+## Contribute
+If you would like to contribute to this notebook, please send me your ideas, new research, improvements to my email: Keelanduddy@gmail.com. I will review them and get back to you.
+
+
 ## Issues
 If you are still having any issues or even want to ask questions please contact me at my email: Keelanduddy@gmail.com
 I'll get back to you as soon as I can.
 
-# Author
+
+## Conclusion
+After completing this project I feel I've learned a lot about these two topics. The fact I had to go out and research these complex topics on my own, take what I found and explain them in depth. While trying to display the information I found in a more approachable way for other people to see, was a challenge. I feel this has greatly increased my research skills, especially when comes to computer science topics.
+
+Using Jupyter notebook and understanding how it works will be a great asset to me. I really enjoy that it's a mixture of a word document where you can explain points in writing but you are also able to write code. I definitely see myself using this again when i need to research any other computer science or mathematic topics.
+
+Python was certainly a language that I was wanting to learn more about. It's become a very popular language these days, I feel learning and now knowing the language is only a benifit to me. Using Python while researching these topics greatly improved my skills in the language. Early on I did find the indentation aspect of language to be quite frustrating for me, especially with other languages I know (Java) use curly braces. I did eventually with practice get over this hurdle with the language.
+
+
+
+## Author
 
 Keelan Duddy
+
+
 
 # References
 Dr Ian McLoughlin. [15]
