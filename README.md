@@ -58,7 +58,7 @@ If you wish to look at the contents of the notebook closer, you will need to ins
 
 #### Jupyter Notebook
 
-Juyter installation requires Python 3.3 or greater.
+Jupyter installation requires Python 3.3 or greater.
 
 [Click here to install Jupyter via Python Installation](https://test-jupyter.readthedocs.io/en/rtd-theme/install.html#:~:text=Prerequisite%3A%20Jupyter%20installation%20requires%20Python,package%20manager%2C%20or%20using%20Anaconda.)
 
@@ -100,7 +100,7 @@ I'll get back to you as soon as I can.
 ## Conclusion
 After completing this project I feel I've learned a lot about these two topics. The fact I had to go out and research these complex topics on my own, take what I found and explain them in depth. While trying to display the information I found in a more approachable way for other people to see, was a challenge. I feel this has greatly increased my research skills, especially when comes to computer science topics.
 
-Using Jupyter notebook and understanding how it works will be a great asset to me. I really enjoy that it's a mixture of a word document where you can explain points in writing but you are also able to write code. I definitely see myself using this again when i need to research any other computer science or mathematic topics.
+Using Jupyter notebook and understanding how it works will be a great asset to me. I really enjoy that it's a mixture of a word document where you can explain points in writing but you are also able to write and run code. I definitely see myself using this again when i need to research any other computer science or mathematic topics.
 
 Python was certainly a language that I was wanting to learn more about. It's become a very popular language these days, I feel learning and now knowing the language is only a benifit to me. Using Python while researching these topics greatly improved my skills in the language. Early on I did find the indentation aspect of language to be quite frustrating for me, especially with other languages I know (Java) use curly braces. I did eventually with practice get over this hurdle with the language.
 
@@ -111,9 +111,14 @@ Python was certainly a language that I was wanting to learn more about. It's bec
 Keelan Duddy
 
 
+## Credits
+Dr Ian McLoughlin. 
+Toni Canada.
+Kanav Malhotra.
+
 
 # References
-Dr Ian McLoughlin. [15]
+
 
 ### Heap sort references
 
@@ -142,6 +147,8 @@ big o complexity https://guides.codepath.com/compsci/Big-O-Complexity-Analysis#:
 heapsort o(n log n) https://www.quora.com/How-does-Heapsort-take-O-nlogn-time [13]
 
 what is graph theory and why we should care https://towardsdatascience.com/what-is-graph-theory-and-why-should-you-care-28d6a715a5c2#:~:text=Graph%20Theory%20is%20ultimately%20the,moving%20parts%20of%20dynamic%20systems. [14]
+
+Dr Ian McLoughlin. [15]
 
 heapsort complexity https://www.happycoders.eu/algorithms/heapsort/ [16]
 
