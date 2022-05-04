@@ -18,25 +18,26 @@ In computer science, heapsort is a comparison-based sorting algorithm.
  
  Within this notebook we discuss:
  
- ~Discuss what is the Heap Sort algorithm.
- ~Implementing Python function for Heap Sort.
- ~Explain the computational complexity of Heap Sort.
- ~Explain how graph theory is used in Heap Sort.
+ * Discuss what is the Heap Sort algorithm.
+ * Implementing Python function for Heap Sort.
+ * Explain the computational complexity of Heap Sort.
+ * Explain how graph theory is used in Heap Sort.
  
 #### Graph Isomorphism problem
 The graph isomorphism problem is the computational problem of determining whether two finite graphs are isomorphic.
  
   Within this notebook we discuss:
 
- ~Discussing what is the Graph Iomorphism Problem.
- ~Explain how graphs can be represented in data structures.
- ~Create a Python function implementing an algorithm to determine if two graphs are isomorphic or not.
- ~Discussion of the computational complexity of the Graph Isomorphism Problem.
+ * Discussing what is the Graph Iomorphism Problem.
+ * Explain how graphs can be represented in data structures.
+ * Create a Python function implementing an algorithm to determine if two graphs are isomorphic or not.
+ * Discussion of the computational complexity of the Graph Isomorphism Problem.
 
 
 ## Technologies
 
 <b>Platform:</b> Jupyter Notebook
+<br>
 <b> Coding language </b> Python
 
 ### How the Technologies will be demonstrating the contents and why
@@ -51,7 +52,7 @@ So Python will be a great way to demonstrate heap-sort algorithm and Graph Isomo
 
 Download Anaconda which is a distribution of the Python programming languages for scientific computing, that aims to simplify package management and deployment. The distribution includes data-science packages suitable for Windows, Linux, and macOS.
 
-[To install Anaconda to get Python follow this installation document](https://docs.anaconda.com/anaconda/install/index.html)
+[Click here To install Anaconda to get Python and follow this installation document](https://docs.anaconda.com/anaconda/install/index.html)
 
 If you wish to look at the contents of the notebook closer, you will need to install jupyter notebook. 
 
@@ -65,15 +66,20 @@ Juyter installation requires Python 3.3 or greater.
 
 Once you followed the guides instructions, clone this repository:
 
-###### https://github.com/Keelan1996/heapsort
-
+````bash
+ git clone https://github.com/Keelan1996/heapsort
+````
 Open up your terminal at the designated location:
 
-###### cd heapsort
+```bash
+cd heapsort
+````
 
 Type in and run this command:
 
-###### jupyter notebook
+```bash
+Jupyter notebook
+````
 
 After this the jupter notebook will pop up in your browser of choice.
 
