@@ -161,3 +161,37 @@ run time analysis of heapsort https://medium.com/@angeloacebedo/run-time-analysi
 merge sort https://www.geeksforgeeks.org/merge-sort/ [20]
 
 quicksort https://www.geeksforgeeks.org/python-program-for-quicksort/ [21]
+
+### Graph Isomorphism Problem references
+
+Graph theory https://economictimes.indiatimes.com/definition/graph-theory [1]
+
+vertices and edges https://www.tutorialspoint.com/edges-and-vertices-of-graph [2]
+
+vertix graph theory https://en.wikipedia.org/wiki/Vertex_(graph_theory) [3]
+
+tutorialspoint isomorphic https://www.tutorialspoint.com/graph_theory/graph_theory_isomorphism.htm [4]
+
+Graph Isomorphism problem wiki https://en.wikipedia.org/wiki/Graph_isomorphism_problem [5]
+
+complexity class https://en.wikipedia.org/wiki/Complexity_class [6]
+
+P vs NP https://simple.wikipedia.org/wiki/P_versus_NP [7]
+
+Millennium Problems https://simple.wikipedia.org/wiki/Millennium_Prize_Problems [8]
+
+brute force iso code https://tonicanada.medium.com/brute-force-code-for-isomorphisms-1241ef180570 [9]
+
+GeeksforGeeks graph and its representations https://www.geeksforgeeks.org/graph-and-its-representations/ [10]
+
+numpy doc https://numpy.org/doc/ [11]
+
+sets geeksforgeeks https://www.geeksforgeeks.org/graph-representations-using-set-hash/ [12]
+
+programiz adjacency list https://www.programiz.com/dsa/graph-adjacency-list#:~:text=An%20adjacency%20list%20represents%20a,an%20edge%20with%20the%20vertex. [13]
+
+Brute force graph Isomorphic code https://gist.github.com/tonicanada/5f689540d30e51a9837d660b801ef9cb [14]
+
+stack overflow: What are NP-Intermediate problems? https://stackoverflow.com/questions/40773886/what-are-np-intermediate-problems/40773945#40773945 [15]
+
+GateVidyalay: Graph Isomorphism Conditions https://www.gatevidyalay.com/graph-isomorphism/#:~:text=Graph%20Isomorphism%20Conditions%2D&text=Number%20of%20vertices%20in%20both,the%20graphs%20must%20be%20same. [16]
