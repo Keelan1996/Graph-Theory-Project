@@ -1,7 +1,7 @@
 # Graph Theory Assessment
 
 ## Introduction
-Hello my name is Keelan Duddy. This github page contains my end of the year assessment for Graph Theory, Summer 2021/2022. The purpose of this notebook is to demonstrate my understanding, and learning outcomes I have earned in the module Graph Theory in 3rd year software development at ATU. 
+Hello my name is Keelan Duddy. This github page contains my end of the year assessment for Graph Theory. The purpose of this notebook is to demonstrate my understanding, and learning outcomes I have earned in the module Graph Theory in software development at ATU. 
 
 ## Module
 
