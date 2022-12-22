@@ -67,12 +67,12 @@ Jupyter installation requires Python 3.3 or greater.
 Once you followed the guides instructions, clone this repository:
 
 ````bash
- git clone https://github.com/Keelan1996/heapsort
+ git clone https://github.com/Keelan1996/Graph-Theory-Project
 ````
 Open up your terminal at the designated location:
 
 ```bash
-cd heapsort
+cd Graph-Theory-Project
 ````
 
 Type in and run this command:
